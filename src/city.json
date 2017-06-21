@@ -1,0 +1,26 @@
+{
+	"cityinfo" : [
+		{ 
+		"image": "https://images.pexels.com/photos/50631/pexels-photo-50631.jpeg",
+		"name" : "London",
+		"state" : "England",
+		"info" : "" 
+		 
+		},
+		{ 
+		"image": "https://images.pexels.com/photos/262413/pexels-photo-262413.jpeg",
+		"name" : "Big Ben Bridge",
+		"state" : "England",
+		"info" : "" 
+		 
+		},
+		{ 
+		"image" : "https://images.pexels.com/photos/34632/pexels-photo.jpg",
+		"name" : "Sunset River London",
+		"state" : "England",
+		"info" : "" 
+		 
+		} 
+	 
+	] 
+}
